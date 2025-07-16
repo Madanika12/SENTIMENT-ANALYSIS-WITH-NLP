@@ -64,7 +64,7 @@ Logistic Regression, despite its simplicity, can be highly effective for binary 
 
 Sentiment analysis can help businesses automate the process of understanding customer feedback.
 Output:
-
+<img width="696" height="285" alt="Image" src="https://github.com/user-attachments/assets/3ce72bf1-bb22-4889-b683-59a00c9d9577" />
 
 
 
