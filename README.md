@@ -1,11 +1,5 @@
 # SENTIMENT-ANALYSIS-WITH-NLP
-COMPANY: CODTECH IT SOLUTIONS
-*NAME*: MADANIKA PITTAM
-*INTERN ID*: CT04DG1969
-*DOMAIN*: MACHINE LEARNING
-*DURATION*: 4 WEEKS
-*MENTOR*: NEELA SANTOSH
- Overview
+
 This project aims to perform sentiment analysis on customer reviews using Natural Language Processing (NLP) techniques and machine learning. Specifically, it focuses on classifying Amazon product reviews as either positive or negative based on the textual content of each review. This is achieved using a Logistic Regression classifier, trained on TF-IDF-transformed review texts.
 
  Objective
